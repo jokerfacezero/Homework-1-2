@@ -2,7 +2,7 @@
 /// подсчет кол-ва цифр числа
 /// </summary>
 
-int a = 5578;
+int a = 55778;
 int count = 0;
 
 for (int i = a; i != 0; count++)
